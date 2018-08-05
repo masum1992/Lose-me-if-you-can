@@ -27,3 +27,6 @@ Here we have implemented our main idea in python language. But very soon we will
  - <b>2. Install numpy, pygame modules.</b>
  
 # <b>Step 1: Download and unzip.
+ - Download Lose me if you can.py file.
+ - save it in the file in that directory where python.exe is.
+ 
