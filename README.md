@@ -20,4 +20,6 @@ In the development of our simple game we used Q-learning algorithm which is basi
 Here we have implemented our main idea in python language. But very soon we will convert this game in pygame, so that we can play this game in mobile also. 
 
 
+ 
+# <b>Step 0: Ready the game.</b>
         
