@@ -1,6 +1,6 @@
 <b>What is this?</b>
 
-It is a simple game using simple machine learning algorithm called 'Q-learning'.
+>It is a simple game using simple machine learning algorithm called 'Q-learning'.
 
 <b>Where it runs</b>
 
