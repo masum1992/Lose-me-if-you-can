@@ -4,11 +4,11 @@
 
 <b>Where it runs</b>
 
-On mobile platform as well as in desktop.
+>On mobile platform as well as in desktop.
 
 <b>About the game</b>
 
-It is a game with 15 dice. Each pleyar has specific moves. Each time one pleyar can take 2,3 or 5 dices from the board. At last the pleyar who has no moves, he will lose. it is a deterministic game. 
+>It is a game with 15 dice. Each pleyar has specific moves. Each time one pleyar can take 2,3 or 5 dices from the board. At last the pleyar who has no moves, he will lose. it is a deterministic game. 
 
 <b>How algorithm works?</b> 
 
