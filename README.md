@@ -15,11 +15,6 @@ It is a game with 15 dice. Each pleyar has specific moves. Each time one pleyar 
 In the development of our simple game we used Q-learning algorithm which is basically machine learning algorithm. This algorithm learns as like babies learns. Applying  all moves, this algorithm memorizes all moves effects and assign a reward value after each moves in “Q -matrix” . After training, this algorithm uses this “Q- matrix” values to find the optimal moves. And after every play session this algorithm will learn more and more about the games moves and accuracy of giving optimal moves will increase with the play session increases.  
 
 
-<b>How this will run?</b> 
-
-As this is a simple python representation of our Game. so this initial python code will run on “python 2.7 “ interpreter. We are at the end of our Django representation of our Game . After Django representation people can play this game on online. 
-
-
 <b>What we have done?</b>
 
 Here we have implemented our main idea in python language. But very soon we will convert this game in pygame, so that we can play this game in mobile also. 
