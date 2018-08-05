@@ -25,4 +25,5 @@ Here we have implemented our main idea in python language. But very soon we will
 
  - <b>1. Need to installed python 3.
  - <b>2. Install numpy, pygame modules.</b>
-
+ 
+# <b>Step 1: Download and unzip.
