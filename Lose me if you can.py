@@ -134,20 +134,24 @@ for i in range(round):
                 
                 if o%2!=0:
                         if left_dice>1:
+                               
                                 left_dice=play_human(int(input("\nGive your Move: ")),left_dice)
+                                print('-------------------------------')
                                 print ('After your\'s  Turn -> ',left_dice)
                         else:
                                 time.sleep(3)
-                                print ('\nYou lose ')
+                                print ('\t\t\n\n\nYou lose ')
                                 break
                 else:
                         if left_dice>1:
                                 time.sleep(3)
                                 left_dice=play_machine(left_dice,q)
+                                print('-------------------------------')
                                 print ('After machine\'s Move -> ',left_dice)
+                        
                         else:
                                 time.sleep(3)
-                                print ('\nMachine lose')
+                                print ('\t\t\n\n\nMachine lose')
                                 break
 
 
