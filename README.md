@@ -1,4 +1,4 @@
-<b>What is this?</b>
+# <b>What is this?</b>
 
 >It is a simple game using simple machine learning algorithm called 'Q-learning'.
 
