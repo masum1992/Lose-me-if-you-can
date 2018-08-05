@@ -23,6 +23,6 @@ Here we have implemented our main idea in python language. But very soon we will
  
 # <b>Step 0: Requirments.</b>
 
-<b>1. Need to installed python 3.</b>
-<b>2. Install numpy, pygame modules.</b>
+ - <b>1. Need to installed python 3.
+ - <b>2. Install numpy, pygame modules.</b>
 
