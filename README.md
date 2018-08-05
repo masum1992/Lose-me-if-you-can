@@ -23,15 +23,15 @@ Here we have implemented our main idea in python language. But very soon we will
  
 # <b>Step 0: Requirments.</b>
 
- - <b>1. Need to installed python 3.
- - <b>2. Install numpy, pygame modules.</b>
+ - <b> Need to installed python 3.</b>
+ - <b> Install numpy, pygame modules.</b>
  
 # <b>Step 1: Download and save.
- - Download "Lose me if you can.py" file.
- - save it in that directory.
+ - <b>Download "Lose me if you can.py" file.</b>
+ - <b>save it in that directory.</b>
  
 # <b>RUN the file in Windows</b>
- - open CMD.
- - go to that directory where the downloaded file is.
- - type "python Lose me if you can.py" and hit enter button.
+ - <b>open CMD.</b>
+ - <b>go to that directory where the downloaded file is.</b>
+ - <b>type "python Lose me if you can.py" and hit enter button.</b>
  
